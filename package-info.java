@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author karakar
- *
- */
-package SkryptKolektor;
